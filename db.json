@@ -1,22 +1,24 @@
-[
-  {
-    "name": "Praia de Iracema",
-    "description": "A Praia de Iracema é uma das praias mais famosas de Fortaleza, conhecida por suas belas paisagens, calçadão movimentado e vida noturna vibrante. Aproveite para caminhar pelo calçadão, visitar o Ponte dos Ingleses e desfrutar dos bares e restaurantes da região."
-  },
-  {
-    "name": "Centro Dragão do Mar de Arte e Cultura",
-    "description": "Um dos principais centros culturais de Fortaleza, o Dragão do Mar oferece diversas atrações como museus, cinemas, teatros e planetário. É um ótimo lugar para explorar exposições de arte, assistir a um filme ou espetáculo, e aproveitar a vista panorâmica da cidade."
-  },
-  {
-    "name": "Mercado Central de Fortaleza",
-    "description": "O Mercado Central é um dos melhores lugares para comprar artesanato local, lembranças e produtos típicos do Ceará. Explore os diversos estandes que vendem desde redes e roupas até alimentos regionais como castanhas e doces."
-  },
-  {
-    "name": "Parque do Cocó",
-    "description": "O Parque do Cocó é uma grande área verde em Fortaleza, ideal para quem gosta de atividades ao ar livre. Você pode fazer trilhas, passeios de barco, piqueniques ou simplesmente relaxar em meio à natureza."
-  },
-  {
-    "name": "Catedral Metropolitana de Fortaleza",
-    "description": "A Catedral Metropolitana de Fortaleza é um dos marcos arquitetônicos da cidade. Com seu estilo neogótico, a catedral impressiona pela grandiosidade e beleza. Visite para apreciar a arquitetura e, se possível, assista a uma missa."
-  }
-]
+{
+  "Fortaleza":[
+    {
+      "name": "Praia de Iracema",
+      "description": "A Praia de Iracema é uma das praias mais famosas de Fortaleza, conhecida por suas belas paisagens, calçadão movimentado e vida noturna vibrante. Aproveite para caminhar pelo calçadão, visitar o Ponte dos Ingleses e desfrutar dos bares e restaurantes da região."
+    },
+    {
+      "name": "Centro Dragão do Mar de Arte e Cultura",
+      "description": "Um dos principais centros culturais de Fortaleza, o Dragão do Mar oferece diversas atrações como museus, cinemas, teatros e planetário. É um ótimo lugar para explorar exposições de arte, assistir a um filme ou espetáculo, e aproveitar a vista panorâmica da cidade."
+    },
+    {
+      "name": "Mercado Central de Fortaleza",
+      "description": "O Mercado Central é um dos melhores lugares para comprar artesanato local, lembranças e produtos típicos do Ceará. Explore os diversos estandes que vendem desde redes e roupas até alimentos regionais como castanhas e doces."
+    },
+    {
+      "name": "Parque do Cocó",
+      "description": "O Parque do Cocó é uma grande área verde em Fortaleza, ideal para quem gosta de atividades ao ar livre. Você pode fazer trilhas, passeios de barco, piqueniques ou simplesmente relaxar em meio à natureza."
+    },
+    {
+      "name": "Catedral Metropolitana de Fortaleza",
+      "description": "A Catedral Metropolitana de Fortaleza é um dos marcos arquitetônicos da cidade. Com seu estilo neogótico, a catedral impressiona pela grandiosidade e beleza. Visite para apreciar a arquitetura e, se possível, assista a uma missa."
+    }
+  ]
+}
